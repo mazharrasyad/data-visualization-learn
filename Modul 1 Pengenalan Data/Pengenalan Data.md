@@ -13,5 +13,5 @@ Selain itu apabila data dihubungkan dengan ilmu komputer maka memiliki arti, inf
 
 Masih bingung dengan apa definisi data? Di sini akan kami gambarkan melalui sebuah contoh sederhana. Perhatikan gambar di bawah ini.
 
-![Bola Tenis](img/1_Bola_Tenis.png)
+![Bola Tenis](images/1-Bola-Tenis.png)
 
